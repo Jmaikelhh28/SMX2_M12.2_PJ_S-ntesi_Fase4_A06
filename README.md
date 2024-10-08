@@ -15,9 +15,8 @@
 ### 7. [Que sabemos de configuración de red de Linux](https://github.com/PhilipR7/Configuracion-de-red-en-Linux-en-Debian-y-Ubuntu-24.04-.git)
 
 --------
-Philip, Mikel, Oscar.
 
 <div align="center">
-  Philip, Mikel, Oscar.
+  _Philip, Mikel, Oscar._
 </div>
 
