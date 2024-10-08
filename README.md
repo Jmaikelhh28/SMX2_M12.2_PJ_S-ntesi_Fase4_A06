@@ -1,6 +1,6 @@
 # A6: Redes
 
-<img src="https://github.com/Jmaikelhh28/SMX2_M12.2_PJ_S-ntesi_Fase4_A06/blob/main/redes.webp" width="650" height="450">|
+<img src="https://github.com/Jmaikelhh28/SMX2_M12.2_PJ_S-ntesi_Fase4_A06/blob/main/redes.webp" width="550" height="350">|
 
 ---------------------
 
