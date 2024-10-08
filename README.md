@@ -20,6 +20,3 @@
   Philip, Mikel, Oscar.
 </div>
 
-<div align="center">
-  **Este es un texto centrado y en negrita en el archivo README.md.**
-</div>
