@@ -17,6 +17,6 @@
 --------
 
 <div align="center">
-**  Philip, Mikel, Oscar.**
+  **Philip**, **Mikel**, **Oscar**.
 </div>
 
