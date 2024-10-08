@@ -16,3 +16,27 @@
 
 --------
 <p>Philip, Mikel, Oscar.</p>
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Centro de Texto</title>
+    <style>
+        .centrar-texto {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <div class="centrar-texto">
+        <p>Este es un texto centrado en la página.</p>
+    </div>
+</body>
+</html>
+
