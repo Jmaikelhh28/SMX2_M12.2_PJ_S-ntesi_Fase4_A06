@@ -16,7 +16,7 @@
 
 --------
 
-<div align="center">
-  **Philip, Mikel, Oscar.**
-</div>
+**<div align="center">
+  Philip, Mikel, Oscar.
+</div>**
 
