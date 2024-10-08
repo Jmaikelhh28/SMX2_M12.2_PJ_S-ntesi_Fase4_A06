@@ -17,6 +17,6 @@
 --------
 
 <div align="center">
-  _Philip, Mikel, Oscar._
+  **Philip, Mikel, Oscar.**
 </div>
 
