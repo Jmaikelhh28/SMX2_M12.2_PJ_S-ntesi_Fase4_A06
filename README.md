@@ -1,8 +1,6 @@
 # A6: Redes
 
-<<<<<<< HEAD
-<img src="https://github.com/Jmaikelhh28/SMX2_M12.2_PJ_S-ntesi_Fase4_A06/blob/main/redes.webp" width="400" height="300">|
-
+<img src="https://github.com/Jmaikelhh28/SMX2_M12.2_PJ_S-ntesi_Fase4_A06/blob/main/redes.webp" width="500" height="420">|
 
 ---------------------
 
@@ -15,18 +13,3 @@
 ### 5. [Que sabemos de Adaptadores de red](https://github.com/OscraSanchez/Adaptadores-de-Red.git)
 ### 6. [Que sabemos de configuración de red de Windows](https://github.com/PhilipR7/Configuracion-de-red-en-Windows.git)
 ### 7. [Que sabemos de configuración de red de Linux](https://github.com/PhilipR7/Configuracion-de-red-en-Linux-en-Debian-y-Ubuntu-24.04-.git)
-=======
-<<<<<<< HEAD
-https://github.com/Jmaikelhh28/ClasificacionIPs.git
-https://github.com/Jmaikelhh28/-Que-IPs-se-utilizan-para-servidores-y-que-ips-para-puertas-de-enlace.git
-https://github.com/Jmaikelhh28/Funcionalidad-de-la-mascaras-de-red-y-como-se-calculan-segun-la-clasificacion-de-IPs.git
-=======
-
-## Indice
-
-
-https://github.com/PhilipR7/Configuracion-de-red-en-Windows.git
-
- https://github.com/PhilipR7/Configuracion-de-red-en-Linux-en-Debian-y-Ubuntu-24.04-.git
->>>>>>> babcb1d6326342f507bddfa8c79d21c2d3e6dc09
->>>>>>> 2b701f5f472ff4186a1070696f85776b46e29512
